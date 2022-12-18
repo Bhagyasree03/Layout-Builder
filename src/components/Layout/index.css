@@ -1,0 +1,7 @@
+.layout-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 40px;
+  padding: 20px;
+}
